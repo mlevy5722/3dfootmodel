@@ -1,0 +1,6 @@
+open3d
+numpy
+scikit-learn
+ipywidgets
+pythreejs
+
